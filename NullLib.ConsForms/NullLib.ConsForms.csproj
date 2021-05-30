@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>NullLib.ConsForms</RootNamespace>
+    <AssemblyName>NullLib.ConsForms</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NullLib.ConsoleEx" Version="1.0.3" />
+  </ItemGroup>
+
+</Project>
